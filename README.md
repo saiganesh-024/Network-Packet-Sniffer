@@ -13,7 +13,7 @@ sudo apt install python3 python3-pip python3-venv
 
 ### 3. Clone the Repository
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clonehttps://github.com/saiganesh-024/Network-Packet-Sniffer.git
 cd your-repository
 ```
 
